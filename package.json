@@ -1,0 +1,9 @@
+{
+  "name": "simple_mmap",
+  "version": "0.1.0",
+  "description": "Simple Memory-Mapped File Library - SCOOP-compatible Win32 mmap access",
+  "author": "Larry Rix",
+  "license": "MIT",
+  "category": "database",
+  "keywords": ["mmap", "memory-mapped", "file", "binary"]
+}
